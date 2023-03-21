@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'race-sport';
+					src: url('/wp-content/uploads/useanyfont/8677Race-Sport.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/8677Race-Sport.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.race-sport{font-family: 'race-sport' !important;}
+
+						h1, p{
+					font-family: 'race-sport' !important;
+				}
+		
